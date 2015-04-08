@@ -1,0 +1,6 @@
+# Replace USERNAME, PASSWORD, SENDER with your credintails
+
+sms_pipe:
+  driver = pipe
+  return_fail_output
+  #command = "wget -O /dev/null 'http://api.infosmska.ru/interfaces/SendMessages.ashx?login=USERNAME&pwd=PASSWORD&sender=SENDER&phones=$local_part&message=$h_subject'"
