@@ -15,7 +15,7 @@ Instalation
 
 Usage
 ==========
-.. raw::
+.. raw:: bash
 
     echo "" |  mail -s 'MESSAGE' PHONE@sms
     # MESSAGE - sms message text
