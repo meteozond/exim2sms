@@ -16,6 +16,7 @@ Instalation
 Usage
 ==========
 .::
+
     echo "" |  mail -s 'MESSAGE' PHONE@sms
     # MESSAGE - sms message text
     # PHONE - phone number
