@@ -1,4 +1,4 @@
-ms:
+sms:
   driver = accept
   domains = sms
   transport = sms_pipe
