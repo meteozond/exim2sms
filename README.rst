@@ -9,17 +9,17 @@ Instalation
 2. Choose many config files configuration
 3. Copy transport and router into Exim4 `conf.d` directory
 4. Edit `etc/exim4/conf.d/transport/01-sms_pipe` to apply your sms gate settings
-5. Update Exim4 configs sudo
+5. Update Exim4 configs
 
 .. parsed-literal::
 
-    update-exim4.conf
+    sudo update-exim4.conf
 
 6. Restart Exim4 
 
 .. parsed-literal::
 
-    service exim4 restart
+    sudo service exim4 restart
 
 
 Usage
