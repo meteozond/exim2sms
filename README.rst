@@ -16,7 +16,7 @@ Instalation
 Usage
 ==========
 
-.. ::
+.. parsed-literal::
 
     echo "" |  mail -s 'MESSAGE' PHONE@sms
     # MESSAGE - sms message text
