@@ -1,4 +1,4 @@
 sms:
   driver = accept
-  domains = sms
+  domains = sms : sms.sms
   transport = sms_pipe
